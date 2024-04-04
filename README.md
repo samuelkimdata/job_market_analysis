@@ -9,6 +9,8 @@ My goal is to provide valuable insights for HR professionals, job seekers, and e
  
  Link: https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
+## 
+
 # Findings
 ## Salary Analysis
 ### What is the distribution of median salaries across different industries?
