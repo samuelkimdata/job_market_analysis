@@ -14,6 +14,9 @@ My goal is to provide valuable insights for HR professionals, job seekers, and e
 2. Jupyter Notebook
 3. Tableau Public
 
+## Tableau Public
+Direct link: https://public.tableau.com/views/JobMarketAnalysis_17113872555670/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 # Findings
 ## Salary Analysis
 ### What is the distribution of median salaries across different industries?
